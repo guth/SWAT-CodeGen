@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<IniFile><User Name="ALEX"><Forms><Form Name="frmMain"><Data><Item Name="FormTop"><Value>386</Value></Item><Item Name="Data"><Value></Value></Item><Item Name="FormLeft"><Value>402</Value></Item></Data><Controls><Control Name="edtAccount"><Item Name="Text"><Value></Value></Item></Control><Control Name="lstCodes"><Item Name="Items"><Value></Value></Item></Control><Control Name="pmiTitles"><Item Name="Checked"><Value>0</Value></Item></Control></Controls></Form></Forms></User></IniFile>

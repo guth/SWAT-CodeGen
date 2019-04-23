@@ -1,0 +1,10 @@
+obj\Release\Code GeneratorSwat2.exe
+obj\Release\Code GeneratorSwat2.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Code_Generator.Form1.resources
+obj\Debug\Code_Generator1.Properties.Resources.resources
+obj\Debug\Code GeneratorSwat2.csproj.GenerateResource.Cache
+obj\Debug\Code GeneratorSwat2.exe
+bin\Debug\Code GeneratorSwat2.exe
+bin\Debug\Code GeneratorSwat2.pdb
+obj\Debug\Code GeneratorSwat2.pdb

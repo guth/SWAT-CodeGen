@@ -1,0 +1,8 @@
+C:\Documents and Settings\Zachary Langer\My Documents\Visual Studio 2005\Projects\Code GeneratorSwat2\Code GeneratorSwat2\bin\Release\Code GeneratorSwat2.exe
+C:\Documents and Settings\Zachary Langer\My Documents\Visual Studio 2005\Projects\Code GeneratorSwat2\Code GeneratorSwat2\bin\Release\Code GeneratorSwat2.pdb
+C:\Documents and Settings\Zachary Langer\My Documents\Visual Studio 2005\Projects\Code GeneratorSwat2\Code GeneratorSwat2\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Zachary Langer\My Documents\Visual Studio 2005\Projects\Code GeneratorSwat2\Code GeneratorSwat2\obj\Release\Code_Generator.Form1.resources
+C:\Documents and Settings\Zachary Langer\My Documents\Visual Studio 2005\Projects\Code GeneratorSwat2\Code GeneratorSwat2\obj\Release\Code_Generator1.Properties.Resources.resources
+C:\Documents and Settings\Zachary Langer\My Documents\Visual Studio 2005\Projects\Code GeneratorSwat2\Code GeneratorSwat2\obj\Release\Code GeneratorSwat2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Zachary Langer\My Documents\Visual Studio 2005\Projects\Code GeneratorSwat2\Code GeneratorSwat2\obj\Release\Code GeneratorSwat2.exe
+C:\Documents and Settings\Zachary Langer\My Documents\Visual Studio 2005\Projects\Code GeneratorSwat2\Code GeneratorSwat2\obj\Release\Code GeneratorSwat2.pdb

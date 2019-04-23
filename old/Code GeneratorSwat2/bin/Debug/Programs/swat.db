@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<IniFile><User Name="ALEX"><Forms><Form Name="frmMain"><Data><Item Name="FormTop"><Value>386</Value></Item><Item Name="Data"><Value></Value></Item><Item Name="FormLeft"><Value>402</Value></Item></Data><Controls><Control Name="edtAccount"><Item Name="Text"><Value></Value></Item></Control><Control Name="lstCodes"><Item Name="Items"><Value></Value></Item></Control><Control Name="pmiTitles"><Item Name="Checked"><Value>0</Value></Item></Control></Controls></Form></Forms></User><User Name="Owner"><Forms><Form Name="frmMain"><Data><Item Name="FormTop"><Value>387</Value></Item><Item Name="Data"><Value></Value></Item><Item Name="FormLeft"><Value>601</Value></Item></Data><Controls><Control Name="edtAccount"><Item Name="Text"><Value>Darc</Value></Item></Control><Control Name="lstCodes"><Item Name="Items"><Value>"Darc=4800628879492809|
+8280090043096664|
+4000330881022801|
+"</Value></Item></Control><Control Name="pmiTitles"><Item Name="Checked"><Value>0</Value></Item></Control></Controls></Form></Forms></User></IniFile>

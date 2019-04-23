@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Code GeneratorSwat2">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Alex\My Documents\Visual Studio 2005 Projects\Code Generator - NEW\Code GeneratorSwat2.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Alex\My Documents\Visual Studio 2005 Projects\Code Generator - NEW\Code GeneratorSwat2.suo">
+</Property><Property Name="Date" Value="Thursday, November 12, 2009">
+</Property><Property Name="Time" Value="18:46 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Code GeneratorSwat2.sln" Description="File successfully backed up as C:\Documents and Settings\Alex\My Documents\Visual Studio 2005 Projects\Code Generator - NEW\Backup\Code GeneratorSwat2.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Code GeneratorSwat2.suo" Description="File successfully backed up as C:\Documents and Settings\Alex\My Documents\Visual Studio 2005 Projects\Code Generator - NEW\Backup\Code GeneratorSwat2.suo">
+</Event><Event ErrorLevel="0" Project="Code GeneratorSwat2" Source="Code GeneratorSwat2\Code GeneratorSwat2.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Alex\My Documents\Visual Studio 2005 Projects\Code Generator - NEW\Backup\Code GeneratorSwat2\Code GeneratorSwat2.csproj">
+</Event><Event ErrorLevel="0" Project="Code GeneratorSwat2" Source="Code GeneratorSwat2\Form1.cs" Description="File successfully backed up as C:\Documents and Settings\Alex\My Documents\Visual Studio 2005 Projects\Code Generator - NEW\Backup\Code GeneratorSwat2\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Code GeneratorSwat2" Source="Code GeneratorSwat2\Form1.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Alex\My Documents\Visual Studio 2005 Projects\Code Generator - NEW\Backup\Code GeneratorSwat2\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Code GeneratorSwat2" Source="Code GeneratorSwat2\Program.cs" Description="File successfully backed up as C:\Documents and Settings\Alex\My Documents\Visual Studio 2005 Projects\Code Generator - NEW\Backup\Code GeneratorSwat2\Program.cs">
+</Event><Event ErrorLevel="0" Project="Code GeneratorSwat2" Source="Code GeneratorSwat2\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Alex\My Documents\Visual Studio 2005 Projects\Code Generator - NEW\Backup\Code GeneratorSwat2\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Code GeneratorSwat2" Source="Code GeneratorSwat2\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Alex\My Documents\Visual Studio 2005 Projects\Code Generator - NEW\Backup\Code GeneratorSwat2\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Code GeneratorSwat2" Source="Code GeneratorSwat2\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Alex\My Documents\Visual Studio 2005 Projects\Code Generator - NEW\Backup\Code GeneratorSwat2\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Code GeneratorSwat2" Source="Code GeneratorSwat2\Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\Alex\My Documents\Visual Studio 2005 Projects\Code Generator - NEW\Backup\Code GeneratorSwat2\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Code GeneratorSwat2" Source="Code GeneratorSwat2\Form1.resx" Description="File successfully backed up as C:\Documents and Settings\Alex\My Documents\Visual Studio 2005 Projects\Code Generator - NEW\Backup\Code GeneratorSwat2\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Code GeneratorSwat2" Source="Code GeneratorSwat2\Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\Alex\My Documents\Visual Studio 2005 Projects\Code Generator - NEW\Backup\Code GeneratorSwat2\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Code GeneratorSwat2" Source="Code GeneratorSwat2\Code GeneratorSwat2.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Code GeneratorSwat2" Source="Code GeneratorSwat2\Code GeneratorSwat2.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Code GeneratorSwat2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Code GeneratorSwat2.sln" Description="Converted">
+</Event></UpgradeLog>
